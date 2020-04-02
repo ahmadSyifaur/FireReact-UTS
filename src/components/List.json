@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "image": "https://www.sepatubersih.com/panel/upload/layanan/unyellowing.jpg",
+      "title": "Unyellowing",
+      "desc": "Memutihkan Midsole",
+      "price": "25000"
+    },
+    {
+      "id": 2,
+      "image": "https://www.sepatubersih.com/panel/upload/layanan/fast-clean.jpg",
+      "title": "Fast Clen",
+      "desc": "Pencucian Outsole dan Upper",
+      "price": "20000"
+    },
+    {
+      "id": 3,
+      "image": "https://www.sepatubersih.com/panel/upload/layanan/deep-clean.jpg",
+      "title": "Deep Clen",
+      "desc": "Pencucian Seluruh Bagian",
+      "price": "40000"
+    }
+  ]
+  
